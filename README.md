@@ -1,8 +1,7 @@
-PROVA DE WEB FRONT END
-
+PROVA DE WEB
 Aluno: Erick Pacanhan Viana
-
-Uso exclusivo para estudo
+Repositorio git BACKEND: https://github.com/ErickPViana/API-FI--Erick_Viana_BACK
+Repositorio git FRONTEND: 
 
 Para utilizar:
 
