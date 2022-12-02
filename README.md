@@ -2,6 +2,7 @@ PROVA DE WEB
 Aluno: Erick Pacanhan Viana
 Repositorio git BACKEND: https://github.com/ErickPViana/API-FI--Erick_Viana_BACK
 Repositorio git FRONTEND: https://github.com/ErickPViana/API-FI--Erick_Viana_FRONT
+Senha do Postgres: Ep30122003
 
 Para utilizar:
 
